@@ -13,7 +13,7 @@ namespace boxingandunboxing
             //Console.WriteLine("enter the variable");
             //string x = (Console.ReadLine());
 
-            int x = 78;
+            int x = 479;
             int n = (int) GetBox(x);
             
             Console.WriteLine("the unboxed variable is {0}",n);
